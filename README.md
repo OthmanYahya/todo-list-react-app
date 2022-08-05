@@ -1,6 +1,6 @@
 #### Todo App
 
-This small react project was developed alongside the <a href="https://youtu.be/pCA4qpQDZD8">this youtube video tutorial</a> made by Simo Edwin (<a href="https://github.com/developedbyed">Dev Ed</a>)
+This small react project was developed alongside the <a href="https://youtu.be/pCA4qpQDZD8"> this youtube video tutorial</a> made by Simo Edwin (<a href="https://github.com/developedbyed">Dev Ed</a>) for training purposes.
 
 ![img.png](https://raw.githubusercontent.com/auxfuse/todoR/main/assets/img.png)
 
