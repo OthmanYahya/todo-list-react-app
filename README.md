@@ -1,6 +1,6 @@
 #### Todo App
 
-This small React project was developed as a training exercise while following along with a [YouTube video tutorial](https://youtu.be/pCA4qpQDZD8) by Simo Edwin ([Dev Ed](https://github.com/developedbyed)). The goal of the project was to create a simple Todo app using React.
+This small React project was developed as a training exercise. The goal of the project was to create a simple Todo app using React.
 
 ![Todo App Screenshot](https://raw.githubusercontent.com/auxfuse/todoR/main/assets/img.png)
 
